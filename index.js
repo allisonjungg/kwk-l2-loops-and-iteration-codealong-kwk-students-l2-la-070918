@@ -10,8 +10,10 @@ function printBadges(names){
 var tails = 1
 var counter = 0
 function tailsNeverFails() {
+  
   tails=Math.floor(Math.random()*2);
 }
-while (tails =1){
-counter=counter +1
+while (){
+counter=counter++
+return counter
 }
