@@ -10,10 +10,9 @@ function printBadges(names){
 function tailsNeverFails() {
   var counter = 0;
   var number=Math.random();
-  
+  return "You got " + counter + " tails in a row!"
 }
 while (number>.5){
-counter=++counter
+counter++
 number = Math.random();
 }
-return "You got " + counter + " tails in a row!"
