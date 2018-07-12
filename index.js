@@ -13,6 +13,6 @@ function tailsNeverFails() {
 }
 while (number>.5){
 counter=++counter
-return counter
-
+number = Math.random();
 }
+return "You got " + counter + " tails in a row!"
