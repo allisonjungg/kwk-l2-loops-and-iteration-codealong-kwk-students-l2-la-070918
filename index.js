@@ -8,11 +8,11 @@ function printBadges(names){
 }
 
 function tailsNeverFails() {
-  var tails = 1;
   var counter = 0;
-  number=Math.floor(Math.random()*2);
+  var number=Math.random();
 }
-while (tails=true){
-counter=counter++
+while (number>.5){
+counter=++counter
 return counter
+
 }
