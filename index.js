@@ -6,7 +6,12 @@ function printBadges(names){
   console.log("Welcome " + names[counter] + "! "+ "You are employee #" + (counter+1) + ".")
   return names
 }
-let tails = 1
-while tails ()) {
-  
+
+var tails = 1
+var counter = 0
+function tailsNeverFails() {
+  tails=Math.floor(Math.random()*2);
+}
+while (tails=1){
+  counter=counter +1
 }
