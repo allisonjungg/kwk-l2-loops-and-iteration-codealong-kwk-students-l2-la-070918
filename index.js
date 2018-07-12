@@ -13,5 +13,5 @@ function tailsNeverFails() {
   tails=Math.floor(Math.random()*2);
 }
 //while (tails =1){
-  counter=counter +1
-}
+//  counter=counter +1
+//}
