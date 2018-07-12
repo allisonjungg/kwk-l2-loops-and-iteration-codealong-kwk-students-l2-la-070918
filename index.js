@@ -10,9 +10,9 @@ function printBadges(names){
 function tailsNeverFails() {
   var tails = 1;
   var counter = 0;
-  tails=Math.floor(Math.random()*2);
+  number=Math.floor(Math.random()*2);
 }
-while (){
+while (tails=true){
 counter=counter++
 return counter
 }
